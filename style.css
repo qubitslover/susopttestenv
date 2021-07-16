@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body{	
+	padding:0;
+	font-family: 'Open Sans', sans-serif!important;
+}
+
+.mbg{
+	background-image: url('bgm.jpg');
+	background-size: cover;
+	min-height: 100vh;
+
+}
+
+.h_title{
+	color:white;
+	font-weight: bold;
+}
+
+.h_desc{
+	color:white;
+}
+
+.contact_d{
+	background-image: url('cbgm.jpg');
+	background-size: cover;
+	border-radius: 0px!important;
+}
+.contact_d > h2{
+	color:white;
+}
+.footer_bg{
+	background: #042251;
+	color:#fff;
+}
+.u-line{
+	border-bottom: 3px solid #5f5fef;
+}
+
+.c_btn{
+	background:white!important;
+	color:black!important;
+}
+.c_btn > a{
+	color:black!important;
+	text-decoration: none!important;
+}
+.nav-link{
+	color:black!important;
+}
+
+.rbg{
+	background: #ef5c5c;
+}
+.gbg{
+	background: #5cefc7;
+}
+
+.navbar-toggler {
+    color: rgba(255,255,255,.5);
+    border-color: rgb(157 89 89 / 0%);
+    background: #000000!important;
+}
